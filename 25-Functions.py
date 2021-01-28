@@ -18,6 +18,7 @@ def muestraValores(a=5, c=9, b=2):
     print("C es ",c)
 
 def sumatoria(a, *mas):
+    print("tipo de mas ",type(mas))
     sum = a
     if len(mas)>0:
         for n in mas:

@@ -25,6 +25,6 @@ print("PULGAS: ",cm)
 valores = [1,2,3,4,5,4,5]
 gen1 = (x*x for x in valores)
 
-print(gen1)
+print(type(gen1)," ",gen1)
 #convertimos a lista
 print(list(gen1))

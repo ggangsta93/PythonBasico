@@ -1,0 +1,6 @@
+0 Hola a todos
+1 espero que esten aprendiendo mucho 
+2 y no tengan problemas con el codigo
+3 python me gusta por es poderoso
+4 y tambien muy facil de utilizar
+5 Me gusta programar en Python

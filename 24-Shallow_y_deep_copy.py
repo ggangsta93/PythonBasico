@@ -4,6 +4,7 @@ print("-----------------------------------")
 #esto no es una copia, sólo se referencia a la misma instancia que a
 a=5
 b=a
+print("id_a=",id(a),"id_b=",id(b))
 nombres1 = ["Javier","Arias"]
 nombres2 = nombres1
 #ambos a la misma instancia
